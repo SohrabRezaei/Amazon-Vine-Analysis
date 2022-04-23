@@ -2,11 +2,7 @@
 
 ## Overview of the analysis
 
-After creating an Amazon RDS and creating a database and schema for tables in pgadmin, I extracted an s3 dataset file into google colab and inserted the data and columns
-
-into these tables by connecting Amazon RDS to our tables. Afterward, I exported the vine table, and I transformed the data to answer specific questions needed for the 
-
-project.
+After creating an Amazon RDS and creating a database and schema for tables in pgadmin, I extracted an s3 dataset file into google colab and inserted the data and columns into these tables by connecting Amazon RDS to our tables. Afterward, I exported the vine table, and I transformed the data to answer specific questions needed for the project.
 
 ## Results
 
@@ -32,6 +28,4 @@ The percentage of 5 star Vine reviews was 0, while the percentage of 5 star non-
 
 ## Summary
 
-As it is noticeable, there is a bias regarding the non-Vine reviews since there is no mention of Vine reviews whatsoever. Other analyses could be possible such as 
-
-figuring out the percentage of purchases that have been verified or not.
+As it is noticeable, there is a bias regarding the non-Vine reviews since there is no mention of Vine reviews whatsoever. Other analyses could be possible such as figuring out the percentage of purchases that have been verified or not.
